@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Hermitage Hotel",
+        "category": "Hotel",
+        "image": "/hotels/hotel_1.png",
+        "rating": 5,
+        "review": 8,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 2,
+        "name": "Hermitage Hotel",
+        "category": "Hotel",
+        "image": "/hotels/hotel_2.png",
+        "rating": 5,
+        "review": 7,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 3,
+        "name": "Hermitage Hotel",
+        "category": "Hostel",
+        "image": "/hotels/hotel_2.png",
+        "rating": 4,
+        "review": 9,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 4,
+        "name": "Hermitage Hotel",
+        "category": "Hostel",
+        "image": "/hotels/hotel_1.png",
+        "rating": 1,
+        "review": 8,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 5,
+        "name": "Hermitage Hotel",
+        "category": "Departamento",
+        "image": "/hotels/hotel_1.png",
+        "rating": 3,
+        "review": 10,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 6,
+        "name": "Hermitage Hotel",
+        "category": "Departamento",
+        "image": "/hotels/hotel_2.png",
+        "rating": 2,
+        "review": 8,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 7,
+        "name": "Hermitage Hotel",
+        "category": "Bed and breakfast",
+        "image": "/hotels/hotel_2.png",
+        "rating": 4,
+        "review": 8,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    },
+    {
+        "id": 8,
+        "name": "Hermitage Hotel",
+        "category": "Bed and breakfast",
+        "image": "/hotels/hotel_1.png",
+        "rating": 5,
+        "review": 4,
+        "distanceFromCenter": 940,
+        "services": [
+            "wifi",
+            "pool"
+        ],
+        "description": "En el corazón de San Telmo, disfruta de un albergue inspirado...",
+        "favourite": true
+    }
+]

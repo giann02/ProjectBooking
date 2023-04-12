@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hoteles",
+        "amount": 807.105,
+        "image": "/categories/category_4.png"
+    },
+    {
+        "id": 2,
+        "name": "Hostels",
+        "amount": 807.105,
+        "image": "/categories/category_1.png"
+    },
+    {
+        "id": 3,
+        "name": "Departamentos",
+        "amount": 807.105,
+        "image": "/categories/category_2.png"
+    },
+    {
+        "id": 4,
+        "name": "Bed and breakfast",
+        "amount": 807.105,
+        "image": "/categories/category_3.png"
+    }
+]

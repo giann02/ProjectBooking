@@ -1,0 +1,31 @@
+stages:
+  - build
+  - test
+  - deploy
+
+build:
+  stage: build
+  script:
+    - echo "Compiling the code..."
+
+  rules:
+    - changes:
+      - backEnd//*
+
+test:
+  stage: test
+  script:
+    - echo "Running unit tests... "
+  rules:
+    - changes:
+      - backEnd//*
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying application..."
+  rules:
+    - changes:
+      - backEnd/*/
+
+      
